@@ -1,0 +1,2 @@
+proxy = http://default.proxy.lucent.com
+https-proxy = http://default.proxy.lucent.com:8000
